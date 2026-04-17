@@ -17,7 +17,7 @@ public class Test {
     
   }
 
-   static void mu(){
+   static void multi(){
 
     int x=10;
     int y=8;
