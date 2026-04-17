@@ -17,11 +17,11 @@ public class Test {
     
   }
 
-   static void multi(){
+   static void mu(){
 
-    int x=5;
+    int x=10;
     int y=8;
-    int result2 = x*y;
+    int result2 = x/y;
     System.out.println("The multiplcation result is: " +result2);
     
   }
