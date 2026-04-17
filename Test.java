@@ -21,7 +21,7 @@ public class Test {
 
     int x=10;
     int y=8;
-    int result2 = x/y;
+    int result2 = x*y;
     System.out.println("The multiplcation result is: " +result2);
     
   }
@@ -29,7 +29,7 @@ public class Test {
   static void div(){
 
     int s=10;
-    int t=5;
+    int t=15;
     int result3 = s/t;
     System.out.println("The division result is: " +result3);
     
